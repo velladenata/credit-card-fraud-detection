@@ -1,6 +1,7 @@
 # Virtual environment
 venv/
 .venv/
+env/
 
 # Python
 __pycache__/
@@ -20,6 +21,7 @@ __pycache__/
 data/
 data/raw/*
 data/processed/*
+*.zip
 
 # MLflow
 mlruns/
